@@ -4,6 +4,9 @@ to facilitate the tedious patent-filing process.  We specifically focus on abstr
 
 :boom: We generate abstracts of patents by utilizing the first claim
 of each corresponding patent as an input for CPC subclasses A61, H04, and G06, and vice-versa. All the patents used in this paper are granted by the United States Patent and Trademark Office [USPTO](https://www.uspto.gov)  and obtained  from [PatentsView](https://patentsview.org/download/data-download-tables).
+## Data
+:green_book: Data processing can br found  [here](https://github.com/hhshomee/patent_drafting/tree/main/Data%20Prep).
+
 ** Code and environment Set-up for each method:
 - For GPT-2 we used transformers from huggingface github repository. 
 - For GPT-3.5 we used OpenAI api for the generation.
