@@ -10,7 +10,7 @@ of each corresponding patent as an input for CPC subclasses A61, H04, and G06, a
 ## Data
 🔄 Data processing steps can be found  [here](https://github.com/hhshomee/patent_drafting/tree/main/Data%20Prep).
 
-📄 Sample data can be found [here](https://github.com/hhshomee/patent_drafting/tree/main/Data%20Prep). All the processed data has the following information as columns: patent_id, patent_abstract, patent_title, claim_text, cpc_subclass.
+📄 Sample data can be found [here](https://github.com/hhshomee/patent_drafting/tree/main/Sample%20data). All the processed data has the following information as columns: patent_id, patent_abstract, patent_title, claim_text, cpc_subclass.
 
 ## Patent Generation 
 
