@@ -5,7 +5,7 @@ to facilitate the tedious patent-filing process.  We specifically focus on abstr
 :boom: We generate abstracts of patents by utilizing the first claim
 of each corresponding patent as an input for CPC subclasses A61, H04, and G06, and vice-versa. All the patents used in this paper are granted by the United States Patent and Trademark Office [USPTO](https://www.uspto.gov)  and obtained  from [PatentsView](https://patentsview.org/download/data-download-tables).
 
-![example]()<img width="2168" alt="main_fig" src="">
+![example](example.jpg)
 
 ## Data
 🔄 Data processing steps can be found  [here](https://github.com/hhshomee/patent_drafting/tree/main/Data%20Prep).
