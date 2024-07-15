@@ -22,6 +22,8 @@ Patent classification has been done using pre trained BERT model[![Open In Colab
 
 For ranking we used BERT embedding and jaccard coefficient.
 
+Keyphrase: We generated keyphrases using both abstracts and generated abstracts to show in both the cases we are getting similar keyphrases.
+
 
 ## Evaluation
 
