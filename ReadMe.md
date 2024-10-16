@@ -18,7 +18,7 @@ We generate abstracts and claims of patents using models such as GPT-2, GPT-3.5,
 
 ## Patent Tasks
 
-Patent classification has been done using pre trained BERT model[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://github.com/hhshomee/patent_drafting/blob/main/Task/classification.ipynb])
+Patent classification has been done using pre trained BERT model[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 For ranking we used BERT embedding and jaccard coefficient.
 
